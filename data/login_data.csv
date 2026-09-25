@@ -1,0 +1,4 @@
+*** Test Cases ***,${username},${password},${expected}
+Valid Login,standard_user,secret_sauce,success
+Locked User,locked_out_user,secret_sauce,locked
+Invalid Login,invalid_user,wrong_password,error

@@ -1,0 +1,20 @@
+# 1. Hide the Python Virtual Environment (Very Large & System Specific)
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# 2. Hide local IDE settings
+.vscode/
+.idea/
+
+# 3. Clean/Hide temporary test execution files (They change every run)
+results/
+output.xml
+log.html
+report.html
+pabot_results/
+
+# 4. Hide sensitive system files
+Thumbs.db
+.DS_Store
