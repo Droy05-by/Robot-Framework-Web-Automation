@@ -1,5 +1,10 @@
 # Capstone Assignment 4: Robot Framework Web Automation Project
 
+## 📺 Project Demonstration Video
+Click the link below to watch the live automation execution and Jenkins pipeline run:
+Watch the Project Demo Video Here
+https://drive.google.com/drive/folders/1NfRmQ0zCVDjezWVHRs6l3isHLo5xulP-?usp=sharing
+
 ## Project Overview
 This project delivers a complete, production-grade automated testing solution for an E-Commerce web application utilizing the **Robot Framework** ecosystem. The framework is architected using the **Page Object Model (POM)** pattern, utilizing modular resource files, keyword-driven workflows, and external data tables to achieve high maintenance flexibility and reusability. 
 
